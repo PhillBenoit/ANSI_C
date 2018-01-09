@@ -1,0 +1,5 @@
+﻿  project.c
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 9 - pointers and sorting\265 - homework 9 - pointers and sorting\project.c(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  265 - Homework 9 - Pointers and Sorting.vcxproj -> d:\win_user\user1\documents\visual studio 2015\Projects\265 - Homework 9 - Pointers and Sorting\Debug\265 - Homework 9 - Pointers and Sorting.exe
+  265 - Homework 9 - Pointers and Sorting.vcxproj -> d:\win_user\user1\documents\visual studio 2015\Projects\265 - Homework 9 - Pointers and Sorting\Debug\265 - Homework 9 - Pointers and Sorting.pdb (Full PDB)
