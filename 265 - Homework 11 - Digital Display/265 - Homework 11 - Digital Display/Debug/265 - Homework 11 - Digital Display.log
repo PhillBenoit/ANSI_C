@@ -1,0 +1,7 @@
+﻿  project.c
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 11 - digital display\265 - homework 11 - digital display\project.c(87): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 11 - digital display\265 - homework 11 - digital display\project.c(106): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[21]'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 11 - digital display\265 - homework 11 - digital display\project.c(106): warning C4024: 'getString': different types for formal and actual parameter 2
+  265 - Homework 11 - Digital Display.vcxproj -> d:\win_user\user1\documents\visual studio 2015\Projects\265 - Homework 11 - Digital Display\Debug\265 - Homework 11 - Digital Display.exe
+  265 - Homework 11 - Digital Display.vcxproj -> d:\win_user\user1\documents\visual studio 2015\Projects\265 - Homework 11 - Digital Display\Debug\265 - Homework 11 - Digital Display.pdb (Full PDB)

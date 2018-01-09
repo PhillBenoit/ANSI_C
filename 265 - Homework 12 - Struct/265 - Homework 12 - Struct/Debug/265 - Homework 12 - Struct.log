@@ -1,0 +1,15 @@
+﻿  project.c
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 12 - struct\265 - homework 12 - struct\project.c(168): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 12 - struct\265 - homework 12 - struct\project.c(178): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 12 - struct\265 - homework 12 - struct\project.c(184): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 12 - struct\265 - homework 12 - struct\project.c(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 12 - struct\265 - homework 12 - struct\project.c(190): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 12 - struct\265 - homework 12 - struct\project.c(196): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+  265 - Homework 12 - Struct.vcxproj -> D:\win_user\User1\documents\visual studio 2015\Projects\265 - Homework 12 - Struct\Debug\265 - Homework 12 - Struct.exe
+  265 - Homework 12 - Struct.vcxproj -> D:\win_user\User1\documents\visual studio 2015\Projects\265 - Homework 12 - Struct\Debug\265 - Homework 12 - Struct.pdb (Full PDB)
