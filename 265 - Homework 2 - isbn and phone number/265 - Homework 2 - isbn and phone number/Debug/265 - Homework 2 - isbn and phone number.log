@@ -1,0 +1,14 @@
+﻿  ex4.c
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 2 - isbn and phone number\265 - homework 2 - isbn and phone number\ex4.c(15): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 2 - isbn and phone number\265 - homework 2 - isbn and phone number\ex4.c(18): warning C4013: 'getString' undefined; assuming extern returning int
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 2 - isbn and phone number\265 - homework 2 - isbn and phone number\ex4.c(27): warning C4013: 'getNumber' undefined; assuming extern returning int
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 2 - isbn and phone number\265 - homework 2 - isbn and phone number\ex4.c(34): warning C4013: 'printf' undefined; assuming extern returning int
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 2 - isbn and phone number\265 - homework 2 - isbn and phone number\ex4.c(37): warning C4013: 'free' undefined; assuming extern returning int
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 2 - isbn and phone number\265 - homework 2 - isbn and phone number\ex4.c(15): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  Ex3.c
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 2 - isbn and phone number\265 - homework 2 - isbn and phone number\ex3.c(12): warning C4013: 'printf' undefined; assuming extern returning int
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 2 - isbn and phone number\265 - homework 2 - isbn and phone number\ex3.c(15): warning C4013: 'scanf' undefined; assuming extern returning int
+  Driver.c
+  Generating Code...
+  265 - Homework 2 - isbn and phone number.vcxproj -> D:\win_user\User1\documents\visual studio 2015\Projects\265 - Homework 2 - isbn and phone number\Debug\265 - Homework 2 - isbn and phone number.exe
+  265 - Homework 2 - isbn and phone number.vcxproj -> D:\win_user\User1\documents\visual studio 2015\Projects\265 - Homework 2 - isbn and phone number\Debug\265 - Homework 2 - isbn and phone number.pdb (Full PDB)
