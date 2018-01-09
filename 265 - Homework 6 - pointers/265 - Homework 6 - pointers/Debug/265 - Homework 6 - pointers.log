@@ -1,0 +1,21 @@
+﻿  Input.c
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\input.c(25): warning C4018: '>': signed/unsigned mismatch
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\input.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\input.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\input.c(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\input.c(65): warning C4018: '>': signed/unsigned mismatch
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\input.c(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Ex1.c
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\ex1.c(18): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\ex1.c(24): warning C4013: 'free' undefined; assuming extern returning int
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\ex1.c(18): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\ex1.c(29): warning C4047: '>=': 'char *' differs in levels of indirection from 'int'
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\ex1.c(28): warning C4047: 'initializing': 'int' differs in levels of indirection from 'char *'
+  Generating Code...
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 6 - pointers\265 - homework 6 - pointers\input.c(80): warning C4716: 'getString': must return a value
+  265 - Homework 6 - pointers.vcxproj -> D:\win_user\User1\documents\visual studio 2015\Projects\265 - Homework 6 - pointers\Debug\265 - Homework 6 - pointers.exe
+  265 - Homework 6 - pointers.vcxproj -> D:\win_user\User1\documents\visual studio 2015\Projects\265 - Homework 6 - pointers\Debug\265 - Homework 6 - pointers.pdb (Full PDB)

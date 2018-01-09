@@ -1,0 +1,7 @@
+﻿  Ex8.c
+d:\win_user\user1\documents\visual studio 2015\projects\265 - homework 4 - number and calendear\265 - homework 4 - number and calendear\ex8.c(46): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+  Driver.c
+  Generating Code...
+  265 - Homework 4 - number and calendear.vcxproj -> d:\win_user\user1\documents\visual studio 2015\Projects\265 - Homework 4 - number and calendear\Debug\265 - Homework 4 - number and calendear.exe
+  265 - Homework 4 - number and calendear.vcxproj -> d:\win_user\user1\documents\visual studio 2015\Projects\265 - Homework 4 - number and calendear\Debug\265 - Homework 4 - number and calendear.pdb (Full PDB)
